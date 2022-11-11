@@ -1,36 +1,3 @@
-### From Norganna's AddOns
-
-Jump to: [navigation](http://web.archive.org/web/20070104093310/http://norganna.org/wiki/Auctioneer/BasicAucUsage#column-one), [search](http://web.archive.org/web/20070104093310/http://norganna.org/wiki/Auctioneer/BasicAucUsage#searchInput)
-
--   [What is auctioneer](http://web.archive.org/web/20070104093310/http://norganna.org/wiki/Auctioneer/BasicAucUsage#what_is_auctioneer)
-
--   [An example tooltip](http://web.archive.org/web/20070104093310/http://norganna.org/wiki/Auctioneer/BasicAucUsage#an_example_tooltip)
-
--   [So what does this tell th…](http://web.archive.org/web/20070104093310/http://norganna.org/wiki/Auctioneer/BasicAucUsage#so_what_does_this_tell_the_user_)
-
--   [What is this scanning abo…](http://web.archive.org/web/20070104093310/http://norganna.org/wiki/Auctioneer/BasicAucUsage#what_is_this_scanning_about_)
--   [What can Auctioneer do to…](http://web.archive.org/web/20070104093310/http://norganna.org/wiki/Auctioneer/BasicAucUsage#what_can_auctioneer_do_to_help_me_)
-
--   [Another example tooltip](http://web.archive.org/web/20070104093310/http://norganna.org/wiki/Auctioneer/BasicAucUsage#another_example_tooltip)
-
--   [Ok, what is this new data…](http://web.archive.org/web/20070104093310/http://norganna.org/wiki/Auctioneer/BasicAucUsage#ok_what_is_this_new_data_telling_the_user_)
--   [Ok, but what do these num…](http://web.archive.org/web/20070104093310/http://norganna.org/wiki/Auctioneer/BasicAucUsage#ok_but_what_do_these_numbers_actually_mean)
-
--   [Selecting the prices to s…](http://web.archive.org/web/20070104093310/http://norganna.org/wiki/Auctioneer/BasicAucUsage#selecting_the_prices_to_sell_for)
-
--   [An example auction - 1](http://web.archive.org/web/20070104093310/http://norganna.org/wiki/Auctioneer/BasicAucUsage#an_example_auction_1)
--   [An example auction - 2](http://web.archive.org/web/20070104093310/http://norganna.org/wiki/Auctioneer/BasicAucUsage#an_example_auction_2)
-
--   [What's all this mean then?](http://web.archive.org/web/20070104093310/http://norganna.org/wiki/Auctioneer/BasicAucUsage#what_s_all_this_mean_then_)
-
--   [What are the available pr…](http://web.archive.org/web/20070104093310/http://norganna.org/wiki/Auctioneer/BasicAucUsage#what_are_the_available_pricing_models_)
--   [Conclusion](http://web.archive.org/web/20070104093310/http://norganna.org/wiki/Auctioneer/BasicAucUsage#conclusion)
-
-For help on the Interface Usage look in [Interface Usage](http://web.archive.org/web/20070104093310/http://norganna.org/wiki/Auctioneer/Interface_Usage "Auctioneer/Interface Usage")
-
-Updated to version: _3.6.0.0930_
-
-_The following is an edited copy of a post to the forums + an update to mentioned version_
 
 ## What is auctioneer
 
